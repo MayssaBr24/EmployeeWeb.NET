@@ -1,0 +1,11 @@
+C:\Users\Mayssa\Desktop\.NetTp\atelier2\Mesclasse\bin\Debug\net8.0\Mesclasse.deps.json
+C:\Users\Mayssa\Desktop\.NetTp\atelier2\Mesclasse\bin\Debug\net8.0\Mesclasse.dll
+C:\Users\Mayssa\Desktop\.NetTp\atelier2\Mesclasse\bin\Debug\net8.0\Mesclasse.pdb
+C:\Users\Mayssa\Desktop\.NetTp\atelier2\Mesclasse\obj\Debug\net8.0\Mesclasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayssa\Desktop\.NetTp\atelier2\Mesclasse\obj\Debug\net8.0\Mesclasse.AssemblyInfoInputs.cache
+C:\Users\Mayssa\Desktop\.NetTp\atelier2\Mesclasse\obj\Debug\net8.0\Mesclasse.AssemblyInfo.cs
+C:\Users\Mayssa\Desktop\.NetTp\atelier2\Mesclasse\obj\Debug\net8.0\Mesclasse.csproj.CoreCompileInputs.cache
+C:\Users\Mayssa\Desktop\.NetTp\atelier2\Mesclasse\obj\Debug\net8.0\Mesclasse.dll
+C:\Users\Mayssa\Desktop\.NetTp\atelier2\Mesclasse\obj\Debug\net8.0\refint\Mesclasse.dll
+C:\Users\Mayssa\Desktop\.NetTp\atelier2\Mesclasse\obj\Debug\net8.0\Mesclasse.pdb
+C:\Users\Mayssa\Desktop\.NetTp\atelier2\Mesclasse\obj\Debug\net8.0\ref\Mesclasse.dll
